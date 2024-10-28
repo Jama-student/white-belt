@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamaf\\source\\repos\\P09_03Division\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA0F32-B30A-44A1-B392-3F30D0B9056D}|P09_03Division\\P09_03Division.csproj|c:\\users\\jamaf\\source\\repos\\p09_03division\\p09_03division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA0F32-B30A-44A1-B392-3F30D0B9056D}|P09_03Division\\P09_03Division.csproj|solutionrelative:p09_03division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamaf\\source\\repos\\P09_03Division\\P09_03Division\\Program.cs",
+              "RelativeDocumentMoniker": "P09_03Division\\Program.cs",
+              "ToolTip": "C:\\Users\\jamaf\\source\\repos\\P09_03Division\\P09_03Division\\Program.cs*",
+              "RelativeToolTip": "P09_03Division\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:31:43.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

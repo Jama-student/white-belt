@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamaf\\source\\repos\\P6DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7440D82B-CB4E-4C9B-B8AC-6017E5CC3F68}|P6DataTypes\\P6DataTypes.csproj|c:\\users\\jamaf\\source\\repos\\p6datatypes\\p6datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7440D82B-CB4E-4C9B-B8AC-6017E5CC3F68}|P6DataTypes\\P6DataTypes.csproj|solutionrelative:p6datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamaf\\source\\repos\\P6DataTypes\\P6DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "P6DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\jamaf\\source\\repos\\P6DataTypes\\P6DataTypes\\Program.cs",
+              "RelativeToolTip": "P6DataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:01:05.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamaf\\source\\repos\\P2CodeExecution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96D107E-0D1B-45DE-9B3B-6E596A941600}|P2CodeExecution\\P2CodeExecution.csproj|c:\\users\\jamaf\\source\\repos\\p2codeexecution\\p2codeexecution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96D107E-0D1B-45DE-9B3B-6E596A941600}|P2CodeExecution\\P2CodeExecution.csproj|solutionrelative:p2codeexecution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamaf\\source\\repos\\P2CodeExecution\\P2CodeExecution\\Program.cs",
+              "RelativeDocumentMoniker": "P2CodeExecution\\Program.cs",
+              "ToolTip": "C:\\Users\\jamaf\\source\\repos\\P2CodeExecution\\P2CodeExecution\\Program.cs",
+              "RelativeToolTip": "P2CodeExecution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:48:46.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

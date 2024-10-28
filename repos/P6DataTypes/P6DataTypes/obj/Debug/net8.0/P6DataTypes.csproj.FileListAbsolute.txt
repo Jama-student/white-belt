@@ -1,0 +1,14 @@
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\bin\Debug\net8.0\P6DataTypes.exe
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\bin\Debug\net8.0\P6DataTypes.deps.json
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\bin\Debug\net8.0\P6DataTypes.runtimeconfig.json
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\bin\Debug\net8.0\P6DataTypes.dll
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\bin\Debug\net8.0\P6DataTypes.pdb
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.dll
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\refint\P6DataTypes.dll
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.pdb
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\P6DataTypes.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P6DataTypes\P6DataTypes\obj\Debug\net8.0\ref\P6DataTypes.dll

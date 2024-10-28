@@ -1,0 +1,14 @@
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\bin\Debug\net8.0\P4Comments.exe
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\bin\Debug\net8.0\P4Comments.deps.json
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\bin\Debug\net8.0\P4Comments.runtimeconfig.json
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\bin\Debug\net8.0\P4Comments.dll
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\bin\Debug\net8.0\P4Comments.pdb
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.dll
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\refint\P4Comments.dll
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.pdb
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\P4Comments.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P4Comments\P4Comments\obj\Debug\net8.0\ref\P4Comments.dll

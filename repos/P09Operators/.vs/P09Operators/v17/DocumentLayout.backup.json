@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamaf\\source\\repos\\P09Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1CB80C-43F9-4EC3-889C-678B2FCA2468}|P09Operators\\P09Operators.csproj|c:\\users\\jamaf\\source\\repos\\p09operators\\p09operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CB80C-43F9-4EC3-889C-678B2FCA2468}|P09Operators\\P09Operators.csproj|solutionrelative:p09operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamaf\\source\\repos\\P09Operators\\P09Operators\\Program.cs",
+              "RelativeDocumentMoniker": "P09Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\jamaf\\source\\repos\\P09Operators\\P09Operators\\Program.cs",
+              "RelativeToolTip": "P09Operators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:48:18.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

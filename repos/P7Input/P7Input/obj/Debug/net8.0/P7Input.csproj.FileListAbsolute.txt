@@ -1,0 +1,14 @@
+C:\Users\jamaf\source\repos\P7Input\P7Input\bin\Debug\net8.0\P7Input.exe
+C:\Users\jamaf\source\repos\P7Input\P7Input\bin\Debug\net8.0\P7Input.deps.json
+C:\Users\jamaf\source\repos\P7Input\P7Input\bin\Debug\net8.0\P7Input.runtimeconfig.json
+C:\Users\jamaf\source\repos\P7Input\P7Input\bin\Debug\net8.0\P7Input.dll
+C:\Users\jamaf\source\repos\P7Input\P7Input\bin\Debug\net8.0\P7Input.pdb
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.dll
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\refint\P7Input.dll
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.pdb
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\P7Input.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P7Input\P7Input\obj\Debug\net8.0\ref\P7Input.dll
