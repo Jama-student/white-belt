@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Declare variables
+            
             string name = "Jack";
             int healthPoints = 100;
             float attackPower = 15.5f;
@@ -12,16 +12,16 @@
             bool isParalyzed = true;
             string goldCoins = "150,1";
 
-            // Implicit conversion (int to double)
+            
             double doubleHealth = healthPoints;
 
-            // Explicit conversion (float to int)
+        
             int intAttackPower = (int)attackPower;
 
-            // Using Convert class
+        
             int convertedExpPoints = Convert.ToInt32(expPoints);
 
-            // Safe conversion using TryParse
+            
             if (int.TryParse(goldCoins, out int parsedGoldCoins))
             {
                 Console.WriteLine(parsedGoldCoins);
@@ -31,7 +31,7 @@
                 Console.WriteLine("The parse is invalid!");
             }
 
-            // Output results
+            
             Console.WriteLine($"{name}");
             Console.WriteLine($"{doubleHealth}");
             Console.WriteLine($"{intAttackPower}");
