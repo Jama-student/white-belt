@@ -4,14 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Declare and initialize variables
+        
         string characterName = "Arin";
         int healthPoints = 100;
         float attackPower = 15.5f;
         bool isParalyzed = true;
         double currencyAmount = 24.75;
 
-        // Display each variable’s value on the console
+        
         Console.WriteLine($"Character Name: {characterName}");
         Console.WriteLine($"Health Points: {healthPoints}");
         Console.WriteLine($"Attack Power: {attackPower}");
