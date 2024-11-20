@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        // Declare and initialize character attributes with different data types
+        
         string name = "Lira";
         int level = 5;
         float healthPoints = 75.5f;
@@ -13,10 +13,10 @@ class Program
         bool magicAbility = true;
         char rank = 'A';
 
-        // Calculate the points needed for the next level (example calculation)
-        double pointsForNextLevel = 2000 - experiencePoints; // Assuming next level is at 2000 experience points
+        
+        double pointsForNextLevel = 2000 - experiencePoints; 
 
-        // Display each attribute and its value
+        
         Console.WriteLine($"Character Name: {name}");
         Console.WriteLine($"Level: {level}");
         Console.WriteLine($"Health Points: {healthPoints}");
